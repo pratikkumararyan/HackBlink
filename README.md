@@ -15,3 +15,7 @@
 ---
 
 ## A blinky board based on the Hack Club mascot, Orpheus.
+
+---
+
+So I made this project to learn about PCB design and Schematic making as well as to dive into hardware, since I have been doing software only till now and wanna explore the cool world of soldering and hardware too!
