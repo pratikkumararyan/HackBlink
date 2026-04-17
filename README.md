@@ -1,5 +1,5 @@
 # HackBlink - An Orpheus based Blinky Board!
-## SORRY I DONT HAVE A 3D VIEW OF THE PCB CUZ I HAVE A POTATO PC WHICH WAS FREEZING WHENEVER I CLICKED ON 3D VIEW SO ENJOY THE 2D VIEW PCB ONLY
+## NOTE- READ THE WARNING AT THE END OF THIS README. ALSO SORRY I DONT HAVE A 3D VIEW OF THE PCB CUZ I HAVE A POTATO PC WHICH WAS FREEZING WHENEVER I CLICKED ON 3D VIEW SO ENJOY THE 2D VIEW PCB ONLY
 <img width="1920" height="862" alt="image (1)" src="https://github.com/user-attachments/assets/be74dfcd-fd54-438f-a58b-396cc5562596" />
 ### SCHEMATIC
 <img width="1169" height="828" alt="Schematic_HackBlink_2026-04-17" src="https://github.com/user-attachments/assets/6e56ded9-7689-43d9-9627-22a32c98dbd2" />
