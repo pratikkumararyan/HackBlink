@@ -2,7 +2,7 @@
 
 > [!WARNING]
 > ## READ BEFORE CONTINUING
-> Sorry I don't have a 3D view of the PCB! My potato PC freezes whenever I try to open it, so please enjoy the 2D view only.
+> Read onto the end to see the warning about the .kicad_pcb files. Sorry I don't have a 3D view of the PCB! My potato PC freezes whenever I try to open it, so please enjoy the 2D view only.
 
 <img width="1920" height="862" alt="image (1)" src="https://github.com/user-attachments/assets/be74dfcd-fd54-438f-a58b-396cc5562596" />
 
